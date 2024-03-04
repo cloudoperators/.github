@@ -3,7 +3,7 @@ Cloud operators
 
 <a href="https://github.com/cloudoperators"><img align="left" width="150" height="170" src="https://raw.githubusercontent.com/cloudoperators/.github/main/assets/greenhouse.svg"></a>
 
-In addressing the intricacies of cloud management, we proudly present Greenhouse. 
+In addressing the intricacies of cloud management, we proudly present **Greenhouse**. 
 
 Greenhouse is a cloud operations platform designed to streamline and simplify the management of a large-scale, distributed infrastructure.
 
