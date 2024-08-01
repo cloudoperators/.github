@@ -12,10 +12,9 @@ The platform addresses common challenges such as the fragmentation of tools, vis
 It also emphasizes the harmonization and standardization of authorization concepts to enhance security and scalability.   
 With its operator-friendly dashboard, features and extensive automation capabilities, Greenhouse empowers organizations to optimize their cloud operations, reduce manual efforts, and achieve greater operational efficiency.
 
-Check out our [website](https://cloudoperators.github.io/greenhouse/) to learn more.
+Check out our [operations platform website](https://cloudoperators.github.io/greenhouse/) to learn more.
 
 
 # Roadmap
 
-The [roadmap Kanban board](https://github.com/orgs/cloudoperators/projects/1/views/1) provides an overview of ongoing and planned efforts on a high level.    
-Please see the linked issues for more details.
+The [overarching roadmap](https://github.com/orgs/cloudoperators/projects/1/views/1) provides an overview of ongoing and planned efforts on a high level.    
