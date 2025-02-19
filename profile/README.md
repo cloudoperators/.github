@@ -27,7 +27,7 @@ With its operator-friendly dashboard, features and extensive automation capabili
 ## :busts_in_silhouette: Get Involved
 
 Thank you for considering to contribute to our project.
-To become an excellent contributor, check out our [contribution guidelines](https://github.com/cobaltcore-dev/rook/blob/master/CONTRIBUTING.md) and our [open issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Acobaltcore-dev+archived%3Afalse+).
+To become an excellent contributor, check out our [contribution guidelines](https://github.com/cloudoperators/greenhouse/blob/main/CONTRIBUTING.md) and our [open issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Acloudoperators+archived%3Afalse+).
 
 ## :blue_heart: Code of Conduct
 
