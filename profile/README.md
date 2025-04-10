@@ -19,7 +19,7 @@ With its operator-friendly dashboard, features and extensive automation capabili
 
 ## :bear: Features
 
-- **Operational Transparancy:** Greenhouse offers a holistic dashboard and API to manage various operational aspects efficiently and transparently. 
+- **Operational Transparency:** Greenhouse offers a holistic dashboard and API to manage various operational aspects efficiently and transparently. 
 - **Automation:** Efficiency and reliability at anyone's fingertips with Greenhouse' tools and automations across the entire cloud landscape. 
 - **Authentication and Authorization:** Integrate with identity providers to streamline access and permissions and eliminate the need for multiple tools. 
 - **Plugin Support:** Several plugins extend the core platform, providing cloud-native observability, security & compliance tooling and more. 
