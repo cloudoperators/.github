@@ -36,4 +36,4 @@ To facilitate a nice environment for all, check out [our Code of Conduct](https:
 ## :books: Learn More
 
 To learn more about IronCore, check out our official website at [https://cloudoperators.github.io/greenhouse](https://cloudoperators.github.io/greenhouse).
-If you want to go even deeper into the nitty gritty details of Greenhouse, have a look at [the documentation](https://cloudoperators.github.io/greenhouse/docs/getting-started/overview/#value-propositions).
+If you want to go even deeper into the nitty gritty details of Greenhouse, have a look at [the documentation](https://cloudoperators.github.io/greenhouse/docs/getting-started/overview).
