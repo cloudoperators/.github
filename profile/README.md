@@ -37,3 +37,5 @@ To facilitate a nice environment for all, check out [our Code of Conduct](https:
 
 To learn more about Greenhouse, check out our official website at [https://cloudoperators.github.io/greenhouse](https://cloudoperators.github.io/greenhouse).
 If you want to go even deeper into the nitty gritty details of Greenhouse, have a look at [the documentation](https://cloudoperators.github.io/greenhouse/docs/getting-started/overview).
+
+<img src="https://apeirora.eu/assets/img/BMWK-EU.png" width="400"/>
