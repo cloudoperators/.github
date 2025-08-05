@@ -10,6 +10,9 @@ ApeiroRA is a reference blueprint for an open, flexible, secure, and compliant n
 
 Learn more about ApeiroRA by checking out the official website at [https://apeirora.eu/](https://apeirora.eu/).
 
+## 📌 Greenhouse and NeoNephos
+Greenhouse has been donated to the NeoNephos Foundation, a Linux Foundation initiative dedicated to advancing open-source projects that align with the strategic objectives of IPCEI-CIS under neutral governance. Learn more about NeoNephos and our role within it [here](https://neonephos.org).
+
 ## :handshake: Greenhouse
 
 Greenhouse offers a unified interface for organizations to manage various operational aspects efficiently and transparently and operate their cloud infrastructure in compliance with industry standards.  
